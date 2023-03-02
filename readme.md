@@ -8,5 +8,7 @@ Create new cell above: Esc + A
 Create new cell below: Esc + B
 Remove cell: Esc + D + D
 Run all cells: Ctrl + Shift + Enter
+Convert to markdown: Esc + m
+Convert to code: Esc + y
 Save and checkpoint: Ctrl + S
 Insert comment in cell: Ctrl + /
